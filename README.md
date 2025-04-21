@@ -36,6 +36,8 @@ Pillow: Görselleri yüklemek ve ön işleme yapmak için kullanılan Python kü
 # Projenin anlatıldığı Youtube videosu: 
 https://youtu.be/n7zxnek17es
 
+Haticenur Yalman
+
 
 
 
