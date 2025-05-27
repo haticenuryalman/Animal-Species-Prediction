@@ -18,20 +18,6 @@ scikit-learn: Veri işleme ve model değerlendirme için kullanılan kütüphane
 
 Pillow: Görselleri yüklemek ve ön işleme yapmak için kullanılan Python kütüphanesi.
 
-# Proje Yapısı
-/Animal-Species-Prediction
-│
-├── dataset/                # Eğitim ve test için görsel veri seti
-│   ├── cat/                # Kedilere ait görseller
-│   ├── dog/                # Köpeklere ait görseller
-│   ├── ...                 # Diğer hayvan türlerine ait görseller
-│
-├── model.py                # CNN modelinin tanımlandığı dosya
-├── train.py                # Modelin eğitildiği dosya
-├── test.py                 # Modelin test edilmesi için dosya
-├── utils.py                # Yardımcı fonksiyonlar (veri ön işleme, görselleştirme vb.)
-├── simple_cnn_model.pth    # Eğitilmiş model dosyası
-└── README.md               # Proje açıklaması (bu dosya)
 
 # Projenin anlatıldığı Youtube videosu: 
 https://youtu.be/n7zxnek17es
